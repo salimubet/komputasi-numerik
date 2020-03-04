@@ -1,10 +1,9 @@
-site_name: Mochamad Salim Ubaidillah - 170411100097
+site_name: Komputasi Numerik
 site_description: Catatan Komputasi Numerik
-site_author: Mochamad Salim Ubaidillah - 170411100097
 site_url: https://salimubet.github.io/komputasi-numerik/0index/
 
 # Repository
-repo_name: salimubet
+repo_name: Mochamad Salim Ubaidillah
 repo_url: https://github.com/salimubet
 
 # Copyright
@@ -95,6 +94,7 @@ markdown_extensions:
 nav:
   - 0-Tentang Penulis : 0index.md
   - 1-Deret Mclaurin: 1deret.md
+  #- 2-Metode Newton Raphson:
 
 # Google Analytics
 extra_javascript:
